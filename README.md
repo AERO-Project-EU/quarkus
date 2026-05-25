@@ -52,3 +52,7 @@ Interested in when the next release is coming? Check our [release planning](http
 ## How to build Quarkus
 
 The build instructions are available in the [contribution guide](CONTRIBUTING.md).
+
+# Acknowledgements
+
+This work was partially supported by the European Union project AERO (grant agreement No. 1010928). ![EU-Flag](https://aero-project.eu/wp-content/uploads/elementor/thumbs/EU-flag-Horizon-Europe-q1yut7hwge8uq76yx4rtq2z6ogevtl3rm81fus95l2.jpg)
